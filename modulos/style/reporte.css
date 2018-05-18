@@ -1,0 +1,19 @@
+.container {
+  max-width: 50em;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.table{
+  background-color: white;
+  box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2), 5px 5px 5px 5px rgba(0, 0, 0, 0.24);
+}
+.thead-dark{
+  background-color: black;
+}
+.thead-dark th{
+  color: white;
+}
+tbody tr:hover{
+  background-color: #A9A9A9;
+}

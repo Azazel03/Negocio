@@ -1,0 +1,9 @@
+.menu_principal{
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.caption p, h3{
+	text-align: center;
+	font-size: 100%;
+}
